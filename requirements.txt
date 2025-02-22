@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+sentence-transformers
+faiss-cpu
+pypdf
+aiofiles
+Flask
+uvicorn
+PyPDF2
+python-dotenv
+-e .
